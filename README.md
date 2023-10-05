@@ -29,7 +29,7 @@ In this README.md, answer the following question:
 
 ## PART 4
 
-* Make sure to use the Git tab at the bottom of IntelliJ to create a Spring2023 feature branch
+* Make sure to use the Git tab at the bottom of IntelliJ to create a Feature001 feature branch
 * Commit and Push your running code back to your GitHub account
 * Issue a Pull request back to my Java-Lab-006 repo
 * Cut and Paste the Pull request URL into your Canvas lab to turn it in.
